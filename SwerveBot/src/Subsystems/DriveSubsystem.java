@@ -6,7 +6,6 @@
 package Subsystems;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import java.util.Hashtable;
-import Subsystems.Modules.SwerveDriveModule;
 import edu.wpi.first.wpilibj.templates.RobotMap;
 
 /**
