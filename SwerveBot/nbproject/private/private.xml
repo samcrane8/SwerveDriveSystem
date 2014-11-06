@@ -3,13 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/edu/wpi/first/wpilibj/templates/RobotMap.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/Commands/CommandBase.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/edu/wpi/first/wpilibj/templates/RobotTemplate.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/Commands/CrabDriveCommand.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/Subsystems/Modules/SwerveDriveModule.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/Subsystems/DriveSubsystem.java</file>
-            <file>file:/Users/jabaribooker/NetBeansProjects/TestBot/src/edu/wpi/first/wpilibj/templates/OI.java</file>
+            <file>file:/Users/samcrane/Documents/School/Robotics/workspace/SwerveDriveSystem/SwerveBot/Debugging_client/debugging_webpage.html</file>
+            <file>file:/Users/samcrane/Documents/School/Robotics/workspace/SwerveDriveSystem/SwerveBot/src/edu/wpi/first/wpilibj/templates/DebuggingPackage.java</file>
+            <file>file:/Users/samcrane/Documents/School/Robotics/workspace/SwerveDriveSystem/SwerveBot/src/edu/wpi/first/wpilibj/templates/RobotTemplate.java</file>
+            <file>file:/Users/samcrane/Documents/School/Robotics/workspace/SwerveDriveSystem/SwerveBot/src/Subsystems/DriveSubsystem.java</file>
+            <file>file:/Users/samcrane/Documents/School/Robotics/workspace/SwerveDriveSystem/SwerveBot/src/edu/wpi/first/wpilibj/templates/DebuggingServer.java</file>
         </group>
     </open-files>
 </project-private>

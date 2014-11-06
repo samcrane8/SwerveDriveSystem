@@ -32,9 +32,12 @@ public class RobotTemplate extends IterativeRobot {
      * used for any initialization code.
      */
     public void robotInit() {
-
     }
 
+    public void autonomousInit(){
+        
+    }
+    
     /**
      * This function is called periodically during autonomous
      */

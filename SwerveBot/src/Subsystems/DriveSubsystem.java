@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package Subsystems;
+import edu.wpi.first.wpilibj.SensorBase;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import java.util.Hashtable;
 import edu.wpi.first.wpilibj.templates.RobotMap;

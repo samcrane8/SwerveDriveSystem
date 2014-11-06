@@ -9,16 +9,13 @@ package edu.wpi.first.wpilibj.templates;
  *
  * @author samcrane
  */
-public class DebuggingServer implements Runnable{
+public class DebuggingPackage {
     
-    public DebuggingServer(){
-        
-    }
-
-    public void run() {
-        
+    private int value;
+    
+    public DebuggingPackage(int value){
+        this.value = value;
     }
     
-    
-    
+    public int getVal() { return value; }
 }
