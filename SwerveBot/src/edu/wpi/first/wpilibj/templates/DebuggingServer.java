@@ -62,7 +62,7 @@ public class DebuggingServer implements Runnable {
   }
 
   public void reset(){
-      
+      lastHeartbeatTime_ = -1;
   }
   
   // This class handles incoming TCP connections
