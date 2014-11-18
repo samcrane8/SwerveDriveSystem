@@ -62,7 +62,8 @@ public class DebuggingServer implements Runnable {
   }
 
   public void reset(){
-      
+      int x = 20;
+      x += 30;
   }
   
   // This class handles incoming TCP connections
