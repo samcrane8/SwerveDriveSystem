@@ -13,7 +13,4 @@ import edu.wpi.first.wpilibj.Joystick;
 //this will hold all joysticks and buttons of the control systems
 public class OI {
     
-    public static Joystick leftStick = new Joystick(0);
-    public static Joystick rightStick = new Joystick(1);
-    
 }

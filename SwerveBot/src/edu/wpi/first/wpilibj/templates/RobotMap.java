@@ -30,4 +30,11 @@ public class RobotMap {
     public static final int[] TOP_RIGHT_ENCODER = {0,0};
     public static final int[] BOT_RIGHT_ENCODER = {0,0};
     
+    public static final int JS_A = 999;
+    public static final int JS_B = 999;
+    public static final int JS_X = 999;
+    public static final int JS_Y = 999;
+    
+    public static final int JSDRIVER_ADDRESS = 1;
+    
 }

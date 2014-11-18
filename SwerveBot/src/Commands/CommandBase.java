@@ -8,6 +8,8 @@ import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.templates.OI;
 import Subsystems.DriveSubsystem;
+import edu.wpi.first.wpilibj.templates.RobotMap;
+import edu.wpi.first.wpilibj.templates.WiredCatJoystick;
 
 /**
  *
@@ -19,8 +21,12 @@ public abstract class CommandBase extends Command{
     
     public static Subsystem driveSubsystem = new DriveSubsystem();
     
-    public static void inti(){
+    public static WiredCatJoystick jsdriver = new WiredCatJoystick(
+            RobotMap.JSDRIVER_ADDRESS);
+    
+    public static void init(){
         oi = new OI();
+        jsdriver.a.toggleWhenPressed(new CrabDriveCommand());
     }
     
     public CommandBase(String name){
